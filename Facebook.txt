@@ -1,0 +1,43 @@
+# Facebook
+facebook.com 
+www.facebook.com 
+facebook.net
+fb.com
+
+# Akses melalui browser Hp.
+m.facebook.com 
+apps.facebook.com
+
+# Domain Utama digunakan beberapa wilayah
+web.facebook.com
+ 
+# Domain CDN Facebook. Sekarang tidak digunakan 
+static.facebook.com
+
+# Domain ringan untuk browser Hp
+mbasic.facebook.com - Versi ringan untuk koneksi lambat.
+
+# Menampung konten statis seperti gambar dan video di Facebook 
+fbcdn.net
+
+# Sudah tidak dipakai 
+fbsbx.com 
+
+# Akses data modern seperti profil, media, dan analytics
+fbpigeon.com 
+facebook-hardware.com
+graph.facebook.com 
+
+# Domain khusus untuk video dan konten Facebook Watch.
+fb.watch 
+
+# antarmuka khusus perangkat mobile.
+touch.facebook.com
+
+# Beberapa Domain Bahasa yang masih aktif
+facebook.co.id
+da-dk.facebook.com 
+de-de.facebook.com
+es-es.facebook.com
+fr-fr.facebook.com
+ja-jp.facebook.com

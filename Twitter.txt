@@ -1,0 +1,23 @@
+# Twitter / X
+twitter.com
+www.twitter.com
+x.com
+www.x.com
+
+# Akses melalui browser Hp.
+mobile.twitter.com
+m.x.com
+mobile.x.com
+
+# Proses autentikasi OAuth (Login dengan Twitter).
+api.twitter.com
+
+# CDN untuk file statis Twitter.
+abs.twimg.com
+
+# CDN khusus untuk gambar/foto Twitter.
+pbs.twimg.com
+
+# CDN khusus untuk video Twitter.
+video.twimg.com
+

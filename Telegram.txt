@@ -1,0 +1,15 @@
+# Telegram
+telegram.org
+t.me
+web.telegram.org
+telegram.me
+telegram.dog
+my.telegram.org
+
+# CDN untuk menyajikan file seperti media, stiker, font, dan aset aplikasi
+cdn.telegram.org
+cdn1.telegram.org
+cdn2.telegram.org
+cdn3.telegram.org
+cdn4.telegram.org
+cdn5.telegram.org

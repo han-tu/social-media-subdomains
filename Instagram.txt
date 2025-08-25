@@ -1,0 +1,18 @@
+# Instagram
+instagram.com 
+www.instagram.com 
+
+# Domain untuk mobile dari Facebook. Akses melalui browser Hp.
+m.instagram.com 
+
+# Proses autentikasi & otorisasi OAuth aplikasi pihak ketiga
+api.instagram.com 
+
+# Akses data modern seperti profil, media, dan analytics
+graph.instagram.com
+
+# Akses Threads melalui website umum
+threads.net 
+
+# Akses Threads melalui browser Hp
+threadsapp.net 

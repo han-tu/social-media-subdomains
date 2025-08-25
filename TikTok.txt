@@ -1,0 +1,32 @@
+# TikTok
+tiktok.com
+www.tiktok.com
+
+# Akses melalui browser hp
+m.tiktok.com
+
+# login dan basic user data via OAuth
+api.tiktok.com 
+
+# logging & analytics TikTok, tracking event pengguna, performa aplikasi, dan mendukung iklan serta rekomendasi konten.
+log.tiktok.com 
+analytics.tiktok.com 
+
+# domain CDN TikTok untuk distribusi video & media, agar video bisa diputar dengan lancar dan cepat di aplikasi maupun web.
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
+p16.tiktokcdn.com
+
+# domain khusus untuk keperluan CDN regional atau distribusi konten
+tiktokcdn.com
+tiktokcdn-us.com
+tiktokcdn-eu.com
+tiktokw.us
+tiktokeu-cdn.com
+
+# Domain fungsi otentikasi, layanan, dan akses
+api.tiktok.com 
+service.tiktok.com 
+account.tiktok.com 
+login.tiktok.com 
+  
