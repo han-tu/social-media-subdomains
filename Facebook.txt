@@ -15,7 +15,7 @@ web.facebook.com
 static.facebook.com
 
 # Domain ringan untuk browser Hp
-mbasic.facebook.com - Versi ringan untuk koneksi lambat.
+mbasic.facebook.com
 
 # Menampung konten statis seperti gambar dan video di Facebook 
 fbcdn.net
